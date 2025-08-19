@@ -74,7 +74,7 @@
   },
   "dependencies": {
     "@appium/base-driver": "^9.0.0",
-    "@appium/strongbox": "^0.x",
+    "@appium/strongbox": "^1.x",
     "@appium/support": "^6.0.0",
     "appium-ios-device": "^2.7.25",
     "appium-ios-simulator": "^6.2.2",
