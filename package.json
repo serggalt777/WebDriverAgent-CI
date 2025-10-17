@@ -84,7 +84,7 @@
     "bluebird": "^3.5.5",
     "lodash": "^4.17.11",
     "source-map-support": "^0.x",
-    "teen_process": "^2.2.0"
+    "teen_process": "^3.0.2"
   },
   "files": [
     "index.ts",
